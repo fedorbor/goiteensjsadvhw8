@@ -1,0 +1,24 @@
+{
+  "name": "goiteensjsadvhw8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html" ,
+    "build" :"parcel build src/*.html-public-url/goiteensjsadvhw8/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedorbor/goiteensjsadvhw8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedorbor/goiteensjsadvhw8/issues"
+  },
+  "homepage": "https://github.com/fedorbor/goiteensjsadvhw8#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
